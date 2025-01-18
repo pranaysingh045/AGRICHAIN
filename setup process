@@ -1,0 +1,5 @@
+Download the file.
+Navigate to the directory where the file was downloaded and open a terminal in that directory.
+Run the code using the command: python filename.py.
+After running the script, you will be prompted to enter the product name.
+You will then receive the product details along with the total amount of purchased products.
